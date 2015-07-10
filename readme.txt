@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: Smiling_Hemp
 Donate link: goo.gl/3Ux5gD
-Tags: shop, webmoney, yandexmoney, robokassa, qiwi, qiwi terminal, walletone, visa, mastercard, мегафон, beelene, mts, евросеть, tele2, interkassa, wallet one, russian, cart, checkout, commerce, e-commerce, ecommerce, gifts, online, online shop, online store, advanced, files, ready!, reports, sales, sell, shop, shopping, store, tax, virtual, weights, widgets, wordpress ecommerce, wp e-commerce, web 2.0
+Tags: shop, webmoney, yandexmoney, robokassa, qiwi, qiwi terminal, walletone, visa, mastercard, РјРµРіР°С„РѕРЅ, beelene, mts, РµРІСЂРѕСЃРµС‚СЊ, tele2, interkassa, wallet one, russian, cart, checkout, commerce, e-commerce, ecommerce, gifts, online, online shop, online store, advanced, files, ready!, reports, sales, sell, shop, shopping, store, tax, virtual, weights, widgets, wordpress ecommerce, wp e-commerce, web 2.0
 Requires at least: 3.5.1
 Tested up to: 4.2.2
 Stable tag: 1.0.0
@@ -18,7 +18,7 @@ AVK-Shop - a plug of web shop in your WordPress, connects of payment systems, is
 
 = RUS =
 
-AVK-Shop - это плагин интернет магазина в вашем WordPress, подключает платежные системы. Более подробное описание на русском языке вы можете прочитать на [домашней странице](http://avkproject.ru/avkshop-web20) плагина.
+AVK-Shop - СЌС‚Рѕ РїР»Р°РіРёРЅ РёРЅС‚РµСЂРЅРµС‚ РјР°РіР°Р·РёРЅР° РІ РІР°С€РµРј WordPress, РїРѕРґРєР»СЋС‡Р°РµС‚ РїР»Р°С‚РµР¶РЅС‹Рµ СЃРёСЃС‚РµРјС‹. Р‘РѕР»РµРµ РїРѕРґСЂРѕР±РЅРѕРµ РѕРїРёСЃР°РЅРёРµ РЅР° СЂСѓСЃСЃРєРѕРј СЏР·С‹РєРµ РІС‹ РјРѕР¶РµС‚Рµ РїСЂРѕС‡РёС‚Р°С‚СЊ РЅР° [РґРѕРјР°С€РЅРµР№ СЃС‚СЂР°РЅРёС†Рµ](http://avkproject.ru/avkshop-web20) РїР»Р°РіРёРЅР°.
 
 == Installation ==
 
