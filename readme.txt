@@ -36,6 +36,7 @@ AVK-Shop - это плагин интернет магазина в вашем W
 1. Page main settings
 2. Page payment systems and log
 3. Page tools
+4. Add items to the editor
 
 == Changelog ==
 
