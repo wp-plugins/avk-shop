@@ -3,7 +3,7 @@ Contributors: Smiling_Hemp
 Donate link: goo.gl/3Ux5gD
 Tags: shop, webmoney, yandexmoney, robokassa, qiwi, qiwi terminal, walletone, visa, mastercard, мегафон, beelene, mts, евросеть, tele2, interkassa, wallet one, russian, cart, checkout, commerce, e-commerce, ecommerce, gifts, online, online shop, online store, advanced, files, ready!, reports, sales, sell, shop, shopping, store, tax, virtual, weights, widgets, wordpress ecommerce, wp e-commerce, web 2.0
 Requires at least: 3.5.1
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
